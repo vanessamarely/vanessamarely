@@ -15,7 +15,7 @@ System Engineer at <a href="https://www.uniremington.edu.co/">Uniremington</a>
 ```javascript
 const vanessamarely = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Angular, AngularJS, RxJs Jest, Docker],
+  tools: [React, Redux, Angular, AngularJS, RxJs],
   architecture: ["design system pattern"],
   preprocessor: ["SASS", "LESS"],
   techCommunities: {
