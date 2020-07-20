@@ -20,7 +20,7 @@ const vanessamarely = {
   preprocessor: ["SASS", "LESS"],
   techCommunities: {
                         organizer: "GDG Medellin",
-                        mentor: "PionerasDev"
+                        mentor: "PionerasDev",
                         speaker: "https://gist.github.com/vanessamarely"
                       },
                       blogs: [ devto: "https://dev.to/vanessamarely", medium: "https://medium.com/@vanessamarely"],
