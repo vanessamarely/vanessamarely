@@ -14,10 +14,10 @@ System Engineer at <a href="https://www.uniremington.edu.co/">Uniremington</a>
 
 ```javascript
 const vanessamarely = {
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Angular, AngularJS, RxJs],
+  code: ["Javascript", "Typescript", "HTML", "CSS"],
+  tools: ["React", "Redux", "Angular", "AngularJS", "RxJs"],
   architecture: ["Design System Pattern"],
-  preprocessor: [SASS, LESS],
+  preprocessor: ["SASS", "LESS"],
   techCommunities: {
      organizer: "GDG Medellin",
      mentor: "PionerasDev",
