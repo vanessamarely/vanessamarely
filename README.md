@@ -16,15 +16,18 @@ System Engineer at <a href="https://www.uniremington.edu.co/">Uniremington</a>
 const vanessamarely = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, Angular, AngularJS, RxJs],
-  architecture: ["design system pattern"],
-  preprocessor: ["SASS", "LESS"],
+  architecture: ["Design System Pattern"],
+  preprocessor: [SASS, LESS],
   techCommunities: {
-                        organizer: "GDG Medellin",
-                        mentor: "PionerasDev",
-                        speaker: "https://gist.github.com/vanessamarely"
-                      },
-                      blogs: [ devto: "https://dev.to/vanessamarely", medium: "https://medium.com/@vanessamarely"],
- challenge: "I am doing ngchallenges page, where I am adding Angular documentation"
+     organizer: "GDG Medellin",
+     mentor: "PionerasDev",
+     speaker: "https://gist.github.com/vanessamarely"
+  },
+  blogs: [ 
+     devto: "https://dev.to/vanessamarely", 
+     medium: "https://medium.com/@vanessamarely"
+  ],
+  challenge: "I am doing ngchallenges page, where I am adding Angular documentation"
 }
 ```
 
