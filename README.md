@@ -32,6 +32,9 @@ const vanessamarely = {
 ```
 
 <img src="https://gblobscdn.gitbook.com/assets%2F-LbFy569GFu09bPpzMDJ%2F-LnKxbDNEhLrZcc5pdJR%2F-LnKxoMdw9h4J35E7Oka%2Fangularhappy.png?alt=media&token=3e85940d-f951-4e77-8d03-83676fc282b9" width="60"> <em><b>[ng-challenges](https://ngchallenges.gitbook.io/project/) </b></em> page (spanish content) 😀
+- Other pages: 
+[Metamorfosis Agular](https://ngchallenges.gitbook.io/metamorfosis-de-angular/) 
+[Practical example](https://ngchallenges.gitbook.io/projects-example-angular/) 
 
 
 ## 📫 Contact Me
