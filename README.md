@@ -1,11 +1,13 @@
 <h2> Hi, I'm Vanessa Aristizabal <img src="https://gblobscdn.gitbook.com/assets%2F-LbFy569GFu09bPpzMDJ%2F-LnL1Q42mNY-os41Y9so%2F-LnL3SXs1cbgXFZu0Rkp%2Fvanessa2.png?alt=media&token=9a4442f5-9c6f-433c-8927-ff24d427455c" width="40"></h2>
 
+<img src="https://gblobscdn.gitbook.com/assets%2F-LbFy569GFu09bPpzMDJ%2F-MayHWMzpBCMXcXaS-lo%2F-MayHfCepQi4wdnMOqhG%2FPurple%20and%20Pink%20Organic%20and%20Handcrafted%20Welcome%20Message%20Elementary%20Back%20to%20School%20Banner.png?alt=media&token=da592c94-eb35-4380-8902-ec26837631ff" />
+
 <img align='right' src="https://gblobscdn.gitbook.com/assets%2F-LbFy569GFu09bPpzMDJ%2F-M6SGYJMqBN4C5uv3t-T%2F-M6SGj_8P63IiF6r4kB4%2Ffotogde.png?alt=media&token=56951042-47a7-4ee4-a198-7b1db2bc6796" width="230">
 
-<p><em>Web Developer</br>
-System Engineer at <a href="https://www.uniremington.edu.co/">Uniremington</a>
+
+<strong>System Engineer</strong> at <a href="https://www.uniremington.edu.co/">Uniremington</a>
 </em></p>
-<p>I am <em>GDE Angular & Web Technologies</em> and <em>Github Star</em><p/>
+<p>I am <strong>GDE Angular & Web Technologies</strong> and <strong>Github Star</strong><p/>
 <p>Frontend developer, code cartoon, book lover, illustrator, cat and dog lover</p>
 <p>I am a programmer who is curious, passionate and  loves the Web, and contribute to the community</p>
 
