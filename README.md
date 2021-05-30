@@ -5,10 +5,18 @@
 <p><em>Web Developer</br>
 System Engineer at <a href="https://www.uniremington.edu.co/">Uniremington</a>
 </em></p>
+<p>I am **GDE Angular & Web Technologies and Github Star**<p/>
+<p>I am a programmer who is curious, passionate and  loves the Web, and contribute to the community</p>
+
+ I have a blog on Medium and DEV, please follow me there!
+[![Medium: vanessamarely](https://img.shields.io/badge/Medium-Medium%20Blog-blue)](https://vanessamarely.medium.com/)
+[![Dev.to: vanessamarely](https://img.shields.io/badge/Dev.to-Dev%20Blog-ff69b4)](https://dev.to/vanessamarely)
 
 [![Twitter: vanessamarely](https://img.shields.io/twitter/follow/vanessamarely?style=social)](https://twitter.com/vanessamarely)
-[![GitHub Vanessa](https://img.shields.io/github/followers/vanessamarely?label=follow&style=social)](https://github.com/vanessamarely)
+[![GitHub: vanessamarely](https://img.shields.io/github/followers/vanessamarely?label=follow&style=social)](https://github.com/vanessamarely)
 
+ I recently started my Youtube channel, please follow me there!
+ [![Youtube Vanessa's channel](https://img.shields.io/youtube/channel/subscribers/UC0l3fZnjE-xi0DWjFIVnUjA?label=Vanessa%20Channel&style=social)](https://www.youtube.com/channel/UC0l3fZnjE-xi0DWjFIVnUjA)
 
 ### A little more about me...  
 
@@ -19,7 +27,7 @@ const vanessamarely = {
   architecture: ["Design System Pattern"],
   preprocessor: ["SASS", "LESS"],
   techCommunities: {
-     organizer: "GDG Medellin",
+     organizer: "GDG Medellin 2018-2021", "She Codes Angularin 2019", "Angular Day Medellin 2019", "NG-Girls Colombia 2018",
      mentor: "PionerasDev",
      speaker: "https://gist.github.com/vanessamarely"
   },
