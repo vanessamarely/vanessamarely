@@ -5,7 +5,8 @@
 <p><em>Web Developer</br>
 System Engineer at <a href="https://www.uniremington.edu.co/">Uniremington</a>
 </em></p>
-<p>I am **GDE Angular & Web Technologies and Github Star**<p/>
+<p>I am <em>GDE Angular & Web Technologies</em> and <em>Github Star</em><p/>
+<p>Frontend developer, code cartoon, book lover, illustrator, cat and dog lover</p>
 <p>I am a programmer who is curious, passionate and  loves the Web, and contribute to the community</p>
 
  I have a blog on Medium and DEV, please follow me there!
