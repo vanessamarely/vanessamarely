@@ -20,6 +20,9 @@
 
  I recently started my Youtube channel, please follow me there!
  [![Youtube Vanessa's channel](https://img.shields.io/youtube/channel/subscribers/UC0l3fZnjE-xi0DWjFIVnUjA?label=Vanessa%20Channel&style=social)](https://www.youtube.com/channel/UC0l3fZnjE-xi0DWjFIVnUjA)
+ 
+ Also I have started my twitch channel, please follow me there!
+ ![Twitch Status](https://img.shields.io/twitch/status/vanessamarely?style=social)
 
 ### A little more about me...  
 
