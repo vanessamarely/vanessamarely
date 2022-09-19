@@ -9,7 +9,7 @@
 </em></p>
 <p>I am <strong>GDE Angular & Web Technologies</strong> and <strong>Github Star</strong><p/>
 <p>Frontend developer, code cartoon, book lover, illustrator, cat and dog lover</p>
-<p>I am a programmer who is curious, passionate and  loves the Web, and contribute to the community</p>
+<p>I am a curious programmer, passionate about tech, who loves the Web, and contribute to the community</p>
 
  I have a blog on Medium and DEV, please follow me there!
 [![Medium: vanessamarely](https://img.shields.io/badge/Medium-Medium%20Blog-blue)](https://vanessamarely.medium.com/)
@@ -33,7 +33,7 @@ const vanessamarely = {
   architecture: ["Design System Pattern"],
   preprocessor: ["SASS", "LESS"],
   techCommunities: {
-     organizer: "GDG Medellin 2018-2021", "She Codes Angularin 2019", "Angular Day Medellin 2019", "NG-Girls Colombia 2018",
+     organizer: "GDG Medellin 2018-current", "She Codes Angularin 2019", "Angular Day Medellin 2019", "NG-Girls Colombia 2018",
      mentor: "PionerasDev",
      speaker: "https://gist.github.com/vanessamarely"
   },
