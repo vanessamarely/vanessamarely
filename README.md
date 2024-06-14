@@ -1,4 +1,4 @@
-<h2> Hi, I'm Vanessa Aristizabal <img src="https://gblobscdn.gitbook.com/assets%2F-LbFy569GFu09bPpzMDJ%2F-LnL1Q42mNY-os41Y9so%2F-LnL3SXs1cbgXFZu0Rkp%2Fvanessa2.png?alt=media&token=9a4442f5-9c6f-433c-8927-ff24d427455c" width="40"></h2>
+<h2> Hi, I'm Vanessa Aristizabal </h2>
 
 <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LbFy569GFu09bPpzMDJ%2Fuploads%2Fa3E9XMYPoodbiYcNRNor%2FPurple%20and%20Pink%20Organic%20and%20Handcrafted%20Welcome%20Message%20Elementary%20Back%20to%20School%20Banner%20(1).png?alt=media&token=7fbc6c3b-4ff3-4d7b-a4a4-1984d31a4cc2" />
 
