@@ -29,12 +29,11 @@
 ```javascript
 const vanessamarely = {
   code: ["Javascript", "Typescript", "HTML", "CSS"],
-  tools: ["React", "Redux", "Angular", "AngularJS", "RxJs"],
+  tools: ["React", "Redux", "Angular", "AngularJS", "RxJs", "Next.js"],
   architecture: ["Design System Pattern"],
   preprocessor: ["SASS", "LESS"],
   techCommunities: {
-     organizer: "GDG Medellin 2018-current", "She Codes Angularin 2019", "Angular Day Medellin 2019", "NG-Girls Colombia 2018",
-     mentor: "PionerasDev",
+     organizer: "GitTogether Medellin",
      speaker: "https://gist.github.com/vanessamarely"
   },
   blogs: [ 
