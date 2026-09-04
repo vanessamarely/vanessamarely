@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHnmxSiXVUxog/profile-displaybackgroundimage-shrink_350_1400/B4EZspv5zfIwAY-/0/1765931983009?e=1780531200&v=beta&t=o9ThUlbA3quMdMDD1TVSUOOOPfUiJOGw2r-aEdmUKiY)
+
 
 # Vanessa Aristizabal 
 
